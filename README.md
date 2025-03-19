@@ -1,2 +1,2 @@
-# Web-Framework-Module-2-Project
- oursera's Meta Django Web Framework Course Module 2 Lab Solution: Creating a view and URL configuration
+# Meta-Django-Web-Framework-Module-2-Project-URL-Map
+ M2L3 - Creating URLs and mapping to Views 
